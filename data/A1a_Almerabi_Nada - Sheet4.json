@@ -1,0 +1,98 @@
+[
+  {
+    "tags": "WhatsApp",
+    "id": 0
+  },
+  {
+    "tags": "Messages",
+    "id": 1
+  },
+  {
+    "tags": "Lyft",
+    "id": 2
+  },
+  {
+    "tags": "Twitter",
+    "id": 3
+  },
+  {
+    "tags": "Email",
+    "id": 4
+  },
+  {
+    "tags": "Phone Call",
+    "id": 5
+  },
+  {
+    "tags": "Spotify",
+    "id": 6
+  },
+  {
+    "tags": "Snapchat",
+    "id": 7
+  },
+  {
+    "tags": "Youtube",
+    "id": 8
+  },
+  {
+    "tags": "Kik",
+    "id": 9
+  },
+  {
+    "tags": "Instagram",
+    "id": 10
+  },
+  {
+    "tags": "Hangouts",
+    "id": 11
+  },
+  {
+    "tags": "Facebook",
+    "id": 12
+  },
+  {
+    "tags": "Shazam",
+    "id": 13
+  },
+  {
+    "tags": "Yalp",
+    "id": 14
+  },
+  {
+    "tags": "messages",
+    "id": 15
+  },
+  {
+    "tags": "hangouts",
+    "id": 16
+  },
+  {
+    "tags": "WhatsApp",
+    "id": 17
+  },
+  {
+    "tags": "WhatsApp,Instagram,Kik,Twitter,Messages,Email,Shazam,Lyft",
+    "id": 18
+  },
+  {
+    "tags": "WhatsApp,Instagram,Kik,Twitter,Messages,Email,Shazam,Lyft",
+    "id": 19
+  },
+  {
+    "tags": "WhatsApp,Instagram,Kik,Twitter,Messages,Email,Shazam,Lyft",
+    "id": 20
+  },
+  {
+    "tags": "WhatsApp,Instagram,Kik,Twitter,Messages,Email,Shazam,Lyft",
+    "id": 21
+  },
+  {
+    "tags": "WhatsApp,Instagram,Kik,Twitter,Messages,Email,Shazam,Lyft",
+    "id": 22
+  },
+  {
+    "tags": "WhatsApp,Instagram,Kik,Twitter,Messages,Email,Shazam,Lyft",
+    "id": 23
+  }
+]
